@@ -1,0 +1,1 @@
+Default path for Swagger UI is: http://localhost:8088/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config
